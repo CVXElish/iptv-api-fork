@@ -1,11 +1,11 @@
 🕘️更新时间,#genre#
-2025-10-13 18:23:03,http://117.174.25.254:8188/rtp/239.0.0.51:5140
+2025-10-14 06:19:08,http://117.174.25.254:8188/rtp/239.0.0.51:5140
 
 📺央视频道,#genre#
 CETV-1,http://117.174.25.254:8188/rtp/239.0.0.51:5140
 CETV-1,http://223.167.245.215:8001/rtp/239.45.1.125:5140
-CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 CETV-4,http://221.10.226.195:5000/rtp/239.0.0.98:5140
+CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 
 💰央视付费频道,#genre#
 
@@ -20,6 +20,9 @@ CETV-4,http://221.10.226.195:5000/rtp/239.0.0.98:5140
 
 ☘️江苏频道,#genre#
 六合新闻综合,http://p2hs.vzan.com/720020/432453820030502236/live.m3u8
+句容党建,http://jrlive.jrntv.com/live/_definst_/dangjians/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+句容影院,http://jrlive.jrntv.com/live/_definst_/yingshis/chunklist_w1994429382.m3u8?zjiangsd
+句容生活,http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 宜兴紫砂,rtmp://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_zs
 常熟民生,rtmp://cstvplay.21cs.cn/cstv2/cstv2
 武进新闻,http://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
