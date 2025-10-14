@@ -1,9 +1,7 @@
 🕘️更新时间,#genre#
-2025-10-14 18:21:55,http://61.184.46.85:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+2025-10-15 06:18:45,http://117.174.25.254:8188/rtp/239.0.0.51:5140
 
 📺央视频道,#genre#
-CCTV-5+,http://61.184.46.85:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-7,http://61.184.46.85:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV-1,http://117.174.25.254:8188/rtp/239.0.0.51:5140
 CETV-1,http://223.167.245.215:8001/rtp/239.45.1.125:5140
 CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
