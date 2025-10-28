@@ -1,15 +1,7 @@
 🕘️更新时间,#genre#
-2025-10-28 18:23:00,http://111.221.137.155:44330/tsfile/live/0001_1.m3u8?key=txiptv
+2025-10-29 06:19:49,http://139.129.231.228/rtp/239.21.1.135:5002
 
 📺央视频道,#genre#
-CCTV-1,http://111.221.137.155:44330/tsfile/live/0001_1.m3u8?key=txiptv
-CCTV-2,http://111.221.137.155:44330/tsfile/live/0002_1.m3u8?key=txiptv
-CCTV-3,http://111.221.137.155:44330/tsfile/live/0003_1.m3u8?key=txiptv
-CCTV-4,http://111.221.137.155:44330/tsfile/live/0004_1.m3u8?key=txiptv
-CCTV-5,http://111.221.137.155:44330/tsfile/live/0005_1.m3u8?key=txiptv
-CCTV-5+,http://111.221.137.155:44330/tsfile/live/0016_1.m3u8?key=txiptv
-CCTV-7,http://sh.lnott.top:880/dx07.m3u8
-CCTV-15,http://sh.lnott.top:880/dx15.m3u8
 
 💰央视付费频道,#genre#
 
